@@ -1,16 +1,12 @@
 # news_app
 
-A new Flutter project.
+A simple news apps to display news via an API call.
 
-## Getting Started
+## Key Points
+## 1)Fetching news from "newsapi.org"
+## 2)Displaying news by Category
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# ScreenShots
+<img src="https://user-images.githubusercontent.com/38549266/157742872-f76fbfb8-a58c-43a4-b566-f5fe4eb302db.png" width="200"  >
+<img src="https://user-images.githubusercontent.com/38549266/157742889-28d1c645-9239-4256-a41c-628606f6c580.png" width="200"  >
+<img src="https://user-images.githubusercontent.com/38549266/157742880-89d45ad9-7545-4452-a20d-cd27e7cbc08b.png" width="200"  >
